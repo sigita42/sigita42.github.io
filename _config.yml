@@ -1,0 +1,33 @@
+# Site settings
+title: Cook like Sigita! ;)
+email: sigita.grinfelde@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Cook like Sigita is a story of 1000 potatoe adventures!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://sigita42.github.io" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  sigita42
+permalink: "/:title/"
+
+# Build settings
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+    values:
+      author: "Sigita"
+      greeting: "Happy potatoes!"
