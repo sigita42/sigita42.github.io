@@ -1,11 +1,16 @@
 ---
 layout: page
-title: About
+title: About Cook like Sigita
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, my name is Sigita!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm a 25 years old cartography student close to graduation (soon, soon!:) ), I'm working and doing other things that make my life simply busy. Nevertheless, I know - to be successful in my everyday tasks, it's important to have a good meal.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+There are 2 kinds of situations when I need to cook - when my boyfriend or I am hungry, or when I invite friends over. For the first case, I have following requirements - **fast, relatively healthy, relatively cheap, easy, tasty and suitable for feeding only 2 people.** For the second - **tasty and easy.** I guess pretty much what any student is looking for :) 
+
+Over time I have managed to find very good recipes and, additionally, travelling have revealed me some delicious national treasures. To finally collect them in one place, I decided to write this blog and share them also with others.
+
+I hope you'll find something for yourself! :)
+
